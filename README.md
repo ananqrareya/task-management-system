@@ -5,7 +5,7 @@
 # Task Management System
 
 ## Introduction
-The "List of Task" system is an advanced task management application designed to streamline the process of handling tasks from creation to completion. Developed using Spring Boot and integrated with JPA for database interactions, this system offers a robust solution for users needing efficient task tracking and management in a collaborative environment.
+The "Task Management System" system is an advanced task management application designed to streamline the process of handling tasks from creation to completion. Developed using Spring Boot and integrated with JPA for database interactions, this system offers a robust solution for users needing efficient task tracking and management in a collaborative environment.
 
 ## Features
 - **Task Management**: Create, update, retrieve, and delete tasks efficiently through a user-friendly interface.
@@ -61,6 +61,8 @@ The "List of Task" system is an advanced task management application designed to
 - **User Authentication and Authorization**: Integrate OAuth2 for secure API access and operation handling based on user roles.
 - **Advanced Reporting**: Develop comprehensive analytics and reporting features for better insight into task management metrics.
 
+##Final Note
+While the system may appear simple, it serves as a foundational project to stabilize and enhance backend development skills, particularly with Spring Boot. It acts as an effective learning tool for understanding and applying backend principles and technologies in real-world applications.
 
 ---
 
