@@ -1,5 +1,3 @@
- 
-
 ---
 
 # Task Management System
@@ -56,13 +54,17 @@ The "Task Management System" system is an advanced task management application d
 - **Complete a task**: PUT `/completedTask/{id}`
 - **Delete a task**: DELETE `/deleteTask/{id}`
 
-## Future Improvements
-- **Scalability Enhancements**: Optimize the system for higher loads and larger datasets.
-- **User Authentication and Authorization**: Integrate OAuth2 for secure API access and operation handling based on user roles.
-- **Advanced Reporting**: Develop comprehensive analytics and reporting features for better insight into task management metrics.
-
-##Final Note
-While the system may appear simple, it serves as a foundational project to stabilize and enhance backend development skills, particularly with Spring Boot. It acts as an effective learning tool for understanding and applying backend principles and technologies in real-world applications.
+To integrate security as a part of the future features section, rather than listing it separately, you can describe how it will be enhanced and integrated into the overall development and scalability plans for the system. Here's how you could revise the **Future Improvements** section to include security enhancements within the context of broader system development:
 
 ---
 
+## Future Improvements
+- **Scalability Enhancements**: Optimize the system for higher loads and larger datasets, ensuring that as the system grows, it remains robust and responsive under varying operational demands.
+- **User Authentication and Authorization**: Plan to integrate advanced user authentication and authorization mechanisms such as OAuth2 or JWT (JSON Web Tokens). This will secure API access and ensure that operations are performed only by authorized users, enhancing the overall security posture of the application.
+- **Advanced Reporting**: Develop comprehensive analytics and reporting features to provide better insight into task management metrics. This will help in monitoring system usage and identifying potential security risks.
+- **Enhanced Security Measures**: As part of ongoing development, focus on implementing robust security measures including data encryption both at rest and in transit, regular security audits to align with the latest security standards.
+
+---
+
+## Final Note
+While the system may appear simple, it serves as a foundational project to stabilize and enhance backend development skills, particularly with Spring Boot. It acts as an effective learning tool for understanding and applying backend principles and technologies in real-world applications.
